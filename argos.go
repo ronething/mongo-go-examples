@@ -7,8 +7,9 @@ import (
 	"flag"
 	"fmt"
 
+	"mongo-go-examples/examples"
+
 	"github.com/simagix/keyhole/mdb"
-	"github.com/simagix/mongo-go-examples/examples"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/x/mongo/driver/connstring"

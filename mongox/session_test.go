@@ -8,7 +8,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/simagix/mongo-go-examples/examples"
+	"mongo-go-examples/examples"
+
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
